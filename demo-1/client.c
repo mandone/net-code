@@ -1,4 +1,4 @@
-#include "/lib/common.h"
+#include "../lib/common.h"
 
 #define SERV_IP "127.0.0.1"
 #define SERV_PORT 9527
