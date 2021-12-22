@@ -22,3 +22,4 @@
 #include <strings.h>    /* for convenience */
 #include <sys/ioctl.h>
 #include <pthread.h>
+#include <dirent.h>
